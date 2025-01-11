@@ -6,7 +6,8 @@ const customerSchema = new Schema(
         "fullname": String,
         "mobile": String,
         "email": String,
-        "password": String
+        "password": String,
+        "address":String
     }
 );
 
